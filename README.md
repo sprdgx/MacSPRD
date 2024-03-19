@@ -10,8 +10,8 @@ Welcome to My Portfolio, a platform where I showcase various innovative projects
 
 <div align="center">
   <img src="https://github.com/sprdgx/WebGifs/blob/main/sprd.png" alt="Image 1" style="display: inline-block; margin-right: 10px; width: 200px;" />
-  <img src="https://github.com/sprdgx/WebGifs/blob/main/sprd2.png" alt="Image 2" style="display: inline-block; margin-right: 10px; width: 200px;" />
-  <img src="https://github.com/sprdgx/WebGifs/blob/main/sprd3.png" alt="Image 3" style="display: inline-block; width: 200px;" />
+  <img src="https://github.com/sprdgx/WebGifs/blob/main/sprd2.PNG" alt="Image 2" style="display: inline-block; margin-right: 10px; width: 200px;" />
+  <img src="https://github.com/sprdgx/WebGifs/blob/main/sprd3.PNG" alt="Image 3" style="display: inline-block; width: 200px;" />
 </div>
 
 ### Mac OS Clone Website
