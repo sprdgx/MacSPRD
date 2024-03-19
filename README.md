@@ -9,9 +9,9 @@
 Welcome to My Portfolio, a platform where I showcase various innovative projects I've worked on. This portfolio website is designed as a Mac OS clone with features inspired by different applications and tools. Let's explore the projects and technologies used:
 
 <div align="center">
-  <img src="https://github.com/sprdgx/WebGifs/blob/main/sprd.png" alt="Image 1" style="display: inline-block; margin-right: 20px; width: 300px;" />
-  <img src="https://github.com/sprdgx/WebGifs/blob/main/sprd2.PNG" alt="Image 2" style="display: inline-block; margin-right: 20px; width: 300px;" />
-  <img src="https://github.com/sprdgx/WebGifs/blob/main/sprd3.PNG" alt="Image 3" style="display: inline-block; width: 300px;" />
+  <img src="https://github.com/sprdgx/WebGifs/blob/main/sprd.png" alt="Image 1" style="display: inline-block; margin-right: 20px; width: 400px;" />
+  <img src="https://github.com/sprdgx/WebGifs/blob/main/sprd2.PNG" alt="Image 2" style="display: inline-block; margin-right: 20px; width: 400px;" />
+  <img src="https://github.com/sprdgx/WebGifs/blob/main/sprd3.PNG" alt="Image 3" style="display: inline-block; width: 400px;" />
 </div>
 
 ### Mac OS Clone Website
