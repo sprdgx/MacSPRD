@@ -1,63 +1,68 @@
-# playground-macos
+<div align="center">
+  <img src="https://raw.githubusercontent.com/sprdgx/macosPot/d810d81ddbfbf5ae4b55337904acddfc0aaf130e/public/logo/favicon.svg" alt="My Portfolio Logo" width="200px" />
+</div>
 
-My portfolio website simulating macOS's GUI: https://portfolio.zxh.io
+---
 
-Powered by [React](https://reactjs.org/) + [Zustand](https://zustand-demo.pmnd.rs/) + [UnoCSS](https://uno.antfu.me/) + [TypeScript](https://www.typescriptlang.org/) + [Vite](https://vitejs.dev/).
+# My Portfolio: Showcase of Innovative Projects
 
-![light mode](./public/screenshots/light.png)
-![dark mode](./public/screenshots/dark.png)
+Welcome to My Portfolio, a platform where I showcase various innovative projects I've worked on. This portfolio website is designed as a Mac OS clone with features inspired by different applications and tools. Let's explore the projects and technologies used:
 
+<div align="center">
+  <img src="https://github.com/sprdgx/WebGifs/blob/main/sprd.png" alt="Image 1" style="display: inline-block; margin-right: 10px; width: 200px;" />
+  <img src="https://github.com/sprdgx/WebGifs/blob/main/sprd2.png" alt="Image 2" style="display: inline-block; margin-right: 10px; width: 200px;" />
+  <img src="https://github.com/sprdgx/WebGifs/blob/main/sprd3.png" alt="Image 3" style="display: inline-block; width: 200px;" />
+</div>
 
-&nbsp;
+### Mac OS Clone Website
 
-## Usage
+- A fully functional Mac OS clone website with features such as:
+  - Facetime for capturing selfie images
+  - Basic terminal for executing commands
+  - Bear app for displaying about me and project details
+  - Typora app for simple markdown editing
+  - Safari browser for internet browsing
+  - Mac OS Launchpad clone for easy app navigation
 
-Clone the repo and install dependencies:
+## Technologies Used
 
-```bash
-pnpm install
-```
+- React.js: Frontend library for building user interfaces.
+- Zustand: State management library for React applications.
+- Katex: Library for rendering mathematical expressions.
+- Web Vitals: Library for monitoring and improving website performance.
+- Framer Motion: Animation library for React components.
+- React Webcam: Component for capturing webcam images.
+- TypeScript: Typed superset of JavaScript for enhanced code quality.
+- Unocss: Utility-first CSS framework for styling.
+- Vite: Next-generation frontend build tool for fast development.
+- Eslint and Prettier: Tools for code linting and formatting.
+- Husky and lint-staged: Git hooks and pre-commit checks for code quality.
+- React Markdown: Component for rendering markdown content in React.
 
-Start dev server (with hot reloading):
+## 🚀 Getting Started
 
-```bash
-pnpm dev
-```
+To explore the projects in My Portfolio, follow these steps:
 
-Build for production with minification to the `dist` folder:
+1. **Clone the repository:**
 
-```bash
-pnpm build
-```
+   ```bash
+   git clone https://github.com/sprdgx/macosPot.git
+2. **Go to The Directory:**
+   
+   ```bash
+   cd macosPot
+   
+3. **Install dependencies:**
 
+   ```bash   
+   pnpm install
 
-&nbsp;
+4. **Build the development :**
 
-## Changelog
+   ```bash
+   pnpm build
 
-- **Update 2023.06.26**: Improve [FaceTime](https://support.apple.com/en-us/HT208176).
+This command will start the NextJs development server and open the project in your default web browser.
 
-- **Update 2023.06.25**: Add [Typora](https://typora.io/), built on top of [Milkdown](https://milkdown.dev/).
-
-- **Update 2021.12.05**: Simulated the device's actual battery state using [Battery API](https://developer.mozilla.org/en-US/docs/Web/API/Battery_Status_API), displaying 100% charge on [unsupported browsers](https://developer.mozilla.org/en-US/docs/Web/API/Battery_Status_API#browser_compatibility).
-
-- **Update 2021.12.05**: Refactored for cleaner code by utilizing functional components and hooks. Refer to [this branch](https://github.com/Renovamen/playground-macos/tree/class-component) for the previous version implemented with class components.
-
-
-&nbsp;
-
-## Credits
-
-- macOS
-  - [Monterey](https://www.apple.com/macos/monterey/)
-  - [Catalina](https://www.apple.com/bw/macos/catalina/)
-- [macOS Icon Gallery](https://www.macosicongallery.com/)
-- [sindresorhus/file-icon-cli](https://github.com/sindresorhus/file-icon-cli)
-- [vivek9patel.github.io](https://github.com/vivek9patel/vivek9patel.github.io)
-
-
-&nbsp;
-
-## License
-
-[MIT](MIT)
+**📄 License:**
+This project is licensed under the MIT License - see the LICENSE file for details.
