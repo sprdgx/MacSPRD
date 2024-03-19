@@ -21,4 +21,4 @@ Contact me by:
 
 ## Résumé
 
-- Normal version: [English](https://zxh.io/files/cv/en.pdf) / [中文](https://zxh.io/files/cv/cn.pdf)
+- Normal version: [English](https://github.com/sprdgx/WebGifs/blob/main/sprd.png?raw=true)
