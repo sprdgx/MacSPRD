@@ -49,7 +49,7 @@ To explore the projects in My Portfolio, follow these steps:
 2. **Go to The Directory:**
    
    ```bash
-   cd macosPot
+   cd MacSPRD
    
 3. **Install dependencies:**
 
